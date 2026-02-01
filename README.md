@@ -3,7 +3,8 @@
 
 Email Me 👉 ✉️ **sshaizn77@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**zomato analyser
+- 🔭 **I’m currently working on:**zomato analyst
+
 - 🌱 **I’m currently learning:** Data science
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sshazin77@gmail.com
