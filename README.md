@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **sshaizn77@gmail.com** For Collaboration/Project or Anythi
 - 🔭 **I’m currently working on:**zomato analyst
 
 - 🌱 **I’m currently learning:** Data science
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sshazin77@gmail.com
 - ⚡ **Fun fact:** I turn messy data into insights before my coffee gets cold.
 ## 🌐 Socials:
